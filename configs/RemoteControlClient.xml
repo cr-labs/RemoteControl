@@ -1,0 +1,22 @@
+<!--   ?xml version="1.0" encoding="UTF-8"?> -->
+
+<config>
+<com.challengeandresponse.remotecontrol.RemoteControlClient>
+ 	<remote>
+ 		<label>localhost</label>
+ 		<host>127.0.0.1</host>
+ 		<port>5859</port>
+ 		<id>jim</id>
+ 		<secret>jim</secret>
+ 	</remote>
+ 
+ 	<remote>
+ 		<label>sk</label>
+ 		<host>127.0.0.1</host>
+ 		<port>5859</port>
+ 		<id>jim</id>
+ 		<secret>502586</secret>
+ 	</remote>
+ 
+ </com.challengeandresponse.remotecontrol.RemoteControlClient>
+</config>
